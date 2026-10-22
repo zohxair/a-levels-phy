@@ -56,14 +56,6 @@ The content follows the Cambridge 9702 syllabus for **2025–2027**. The **2028�
 
 Download `index.html` and double-click it. It opens in any modern browser (Chrome, Edge, Firefox, Safari).
 
-### Host it on GitHub Pages
-
-1. Create a new repository and upload `index.html` (rename `physics-9702.html` to `index.html` if needed) and this `README.md`.
-2. In the repository, go to **Settings → Pages**.
-3. Under **Build and deployment**, choose **Deploy from a branch**, select the `main` branch and the `/ (root)` folder, then **Save**.
-4. After a minute or two, the site is live at `https://<your-username>.github.io/<repository-name>/`.
-
-
 ## How it works
 
 - Everything (content, styles and scripts) is in one self-contained HTML file with no frameworks or libraries.
