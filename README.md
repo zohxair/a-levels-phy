@@ -63,16 +63,6 @@ Download `index.html` and double-click it. It opens in any modern browser (Chrom
 3. Under **Build and deployment**, choose **Deploy from a branch**, select the `main` branch and the `/ (root)` folder, then **Save**.
 4. After a minute or two, the site is live at `https://<your-username>.github.io/<repository-name>/`.
 
-### Linking to a topic
-
-Every topic and section has its own link, so you can send students straight to it:
-
-```
-https://<your-username>.github.io/<repository-name>/#as-6     → AS topic 6, Deformation of solids
-https://<your-username>.github.io/<repository-name>/#a-22     → A Level topic 22, Quantum physics
-```
-
-`as-0` and `a-0` are the overview pages for each level.
 
 ## How it works
 
